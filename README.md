@@ -7,3 +7,5 @@ conda activate mlproj
 
 pip install -r requirements.txt
 '''
+  git config --global user.email "pratiksutar841@gmail.com"
+    git config --global user.name "pratiksutar841"
